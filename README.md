@@ -76,7 +76,7 @@ This project analyzes customer churn data from a telecom company to identify why
 ---
 
 ## 📁 Repository Structure
-FUTURE_DS_02/
+telecom-churn-analysis/
 ├── dataset/          # Cleaned Telco churn dataset
 ├── dashboard/        # Power BI .pbix file
 ├── exports/          # PDF export of dashboard
